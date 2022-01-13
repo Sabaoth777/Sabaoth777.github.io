@@ -1,0 +1,80 @@
+/* commencing comment*/
+#container
+{
+    margin: 0 auto;
+    width: 960px;
+    background-color: #ffc3f2;
+	text-align="right"
+}
+
+#japan
+{
+margin 0 auto
+background-color: white;
+text-align="right"
+}
+
+body {
+color:#6ad7f7;
+background-color: #ffc3f2;
+
+font-size:0.9em;
+font-family: calibri, helvetica, vernanda;
+	border-style: solid;
+	border-width: 0px;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-color: magenta;
+
+}
+a {
+color:pink;
+}
+
+ul {
+color:#6ad7f7;
+text-transform:uppercase;
+background-color:white;
+margin: 2em;
+
+padding: 5 em;
+}
+h1, h2 {
+color:magenta;
+font-family: helvetica
+font-weight: bold;
+background-color:white;
+margin:0.5em;
+padding:3em;
+border-style: double;
+border-width: 6px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-color: pink;
+}
+
+ol {
+color:blue;
+}
+
+p {
+background-color:white;
+
+}
+
+img {
+background-color:white;
+border: 1em;
+border-color:magenta;
+}
+
+iframe {
+align:center;
+}
+
+#flash
+{
+background-color: white;
+}
+
+
